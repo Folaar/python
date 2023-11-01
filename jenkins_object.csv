@@ -1,0 +1,11 @@
+JOB_NAME,JOB_URL,JOB_STATUS
+CD job,http://45.33.11.12:8080/job/CD%20job/,notbuilt
+docker,http://45.33.11.12:8080/job/docker/,blue
+firstjob,http://45.33.11.12:8080/job/firstjob/,blue
+geo-location-full-pipeline,http://45.33.11.12:8080/job/geo-location-full-pipeline/,blue
+geo-scan,http://45.33.11.12:8080/job/geo-scan/,blue
+geo-test,http://45.33.11.12:8080/job/geo-test/,disabled
+goelocation,http://45.33.11.12:8080/job/goelocation/,red
+job1-as-code,http://45.33.11.12:8080/job/job1-as-code/,blue
+pipeline,http://45.33.11.12:8080/job/pipeline/,blue
+s,http://45.33.11.12:8080/job/s/,blue
